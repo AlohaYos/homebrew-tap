@@ -10,8 +10,8 @@ class Dejavu < Formula
 
   desc "Local knowledge base that gives Claude Code memory across sessions"
   homepage "https://github.com/AlohaYos/dejavu"
-  url "https://github.com/AlohaYos/dejavu/archive/refs/tags/v0.7.3.tar.gz"
-  sha256 "b06f3811f9f20462b8ebd37bf91f648dfc51e32511b43b0d7c40e12d99b9fd9c"
+  url "https://github.com/AlohaYos/dejavu/archive/refs/tags/v0.7.4.tar.gz"
+  sha256 "e358b4fe3509007c9061718d51d6d41584e37fe9e185687a35860ab334576c02"
   license "MIT"
 
   # Pulls in a Python built against Homebrew's SQLite, which guarantees a version new
